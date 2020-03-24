@@ -1,3 +1,5 @@
+![Java CI with Maven](https://github.com/ninthnails/acme-hr/workflows/Java%20CI%20with%20Maven/badge.svg?branch=master)
+
 ## Hierarchy API
 
 REST API for managing the employees at ACME .
