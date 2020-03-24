@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:h2:file:/${user.dir}/dev-h2
+    username: dev
+    password: dev
+
+username: admin
+password: admin

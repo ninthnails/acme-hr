@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:h2:file:/${user.dir}/target/test-h2
+    username: sa
+    password: password
+
+server:
+  ssl:
+    enabled: false
+
+# For test purpose only
+username: test
+password: test
