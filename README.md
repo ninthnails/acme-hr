@@ -2,7 +2,7 @@
 
 ## Hierarchy API
 
-REST API for managing the employees at ACME .
+REST API for managing the employees at ACME Co. This is an exercise project not meant to be use for production use.
 
 
 ### Build, Run and Test
